@@ -1,5 +1,5 @@
 # TrollVNC
-s
+
 [now-on-havoc]: https://havoc.app/search/TrollVNC
 
 [<img width="150" src="https://docs.havoc.app/img/badges/get_square.svg" />][now-on-havoc]
